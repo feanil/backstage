@@ -1,5 +1,16 @@
 # @backstage/backend-test-utils
 
+## 0.1.27
+
+### Patch Changes
+
+- 56e1b4b89c: Added alpha test helpers for the new experimental backend system.
+- Updated dependencies
+  - @backstage/backend-common@0.15.0
+  - @backstage/cli@0.18.1
+  - @backstage/backend-plugin-api@0.1.1
+  - @backstage/backend-app-api@0.2.0
+
 ## 0.1.27-next.0
 
 ### Patch Changes
